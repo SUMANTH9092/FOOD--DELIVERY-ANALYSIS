@@ -113,9 +113,10 @@ This project successfully demonstrates how data analysis can be applied to real-
 
 * @SUMANTH9092 (CH.SUMANTH)
 * @E.PUNITHA SHALINI DEVI
-* @I.MANASA
+* @manasasri05 (I.MANASA)
 * @T.MADHAVILATHA
 * @karthikeya-8301 (V.KARTHIKEYA)
 
+##
 * Real-time data dashboard
 * Recommendation system for users
