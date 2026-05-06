@@ -20,7 +20,7 @@ The application allows users to input a food item (e.g., Biryani, Pizza, Dosa) a
   * ⏱️ Delivery Time
   * 🍱 Quantity
   * 🏆 Quality
-
+[OUTPUT FILE.pdf](https://github.com/user-attachments/files/27434925/OUTPUT.FILE.pdf)
 ---
 
 ## 📊 Output Explanation
