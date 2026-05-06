@@ -6,7 +6,7 @@ The **Food Delivery Analysis System** is a data-driven project that analyzes and
 
 The application allows users to input a food item (e.g., Biryani, Pizza, Dosa) and generates a detailed analysis of available options from different platforms. It evaluates each option using a calculated **overall score**, which helps in selecting the most optimal choice.
 ---
-
+![image alt](Screenshot 2026-05-06 143954.png)
 ## 🔍 Key Functionalities
 
 * Accepts user input for any food item
