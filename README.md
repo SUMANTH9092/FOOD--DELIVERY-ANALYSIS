@@ -114,7 +114,7 @@ This project successfully demonstrates how data analysis can be applied to real-
 * @SUMANTH9092 (CH.SUMANTH)
 * @E.PUNITHA SHALINI DEVI
 * @manasasri05 (I.MANASA)
-* @T.MADHAVILATHA
+* @madhavilathathokala (T.MADHAVILATHA)
 * @karthikeya-8301 (V.KARTHIKEYA)
 
 ##
